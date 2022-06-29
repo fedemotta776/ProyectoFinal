@@ -1,0 +1,263 @@
+@media (min-width: 0px) and (max-width: 425px) {
+    .seccionContacto {
+        display: flex;
+        flex-wrap: wrap;
+        color: $rosa-os;
+        margin-top: 130px;
+        .textoContacto {
+            padding: 30px;
+            .titulo {
+                font-size: 50px;
+                font-weight: bolder;
+                color: $rosa-os;
+            }
+            .barritaRosa {
+                height: 2px;
+                width: 350px;
+                background-color: $rosa-os;
+            
+            }
+            label {
+                width:300px; 
+                height: 50px; 
+                display:inline-block;
+                align-items: center;
+                padding: 20px 50px 20px 0px;
+                
+            }
+            input {
+                width:350px; 
+                height: 40px;
+                display: block;
+                justify-content: center;
+                background-color: $rosa-cl;
+                border: none;
+            }
+            
+            .comentarios {
+                width: 350px;
+                height: 80px;
+                border: none;
+                display: block;
+                background-color: $rosa-cl;
+                text-decoration: none
+                
+            }
+            .boton {
+                background-color: $rosa-os;
+                width: 350px;
+                padding: 5px;
+                border-radius: 5px;
+                margin-bottom: 30px;
+                .btn {
+                    color: white;
+                }
+            }
+            .boton {
+                background-color: $rosa-os;
+            }
+            h4 {
+                margin-top: 20px;
+            }
+            p {
+                margin-top: 20px;
+            }
+        
+    
+        }
+    }
+}
+@media (min-width: 426px) and (max-width: 768px) {
+    .seccionContacto {
+        display: flex;
+        flex-wrap: wrap;
+        color: $rosa-os;
+        margin-top: 150px;
+        .textoContacto {
+            padding: 30px;
+            .titulo {
+                font-size: 50px;
+                font-weight: bolder;
+                color: $rosa-os;
+            }
+            .barritaRosa {
+                height: 2px;
+                width: 700px;
+                background-color: $rosa-os;
+            
+            }
+            label {
+                width:350px; 
+                height: 50px; 
+                display:inline-block;
+                padding: 20px 50px 20px 0px;
+                
+            }
+            input {
+                width:300px; 
+                height: 40px;
+                display: block;
+                background-color: $rosa-cl;
+                border: none;
+            }
+            
+            .comentarios {
+                width: 655px;
+                height: 80px;
+                border: none;
+                display: block;
+                background-color: $rosa-cl;
+                text-decoration: none
+                
+            }
+            .boton {
+                background-color: $rosa-os;
+                width: 655px;
+                padding: 5px;
+                border-radius: 5px;
+                margin-bottom: 30px;
+                .btn {
+                    color: white;
+                }
+            }
+            h4 {
+                margin-top: 20px;
+            }
+            p {
+                margin-top: 20px;
+            }
+        
+    
+        }
+    }
+}
+@media (min-width: 769px) and (max-width: 1024px) {
+    .seccionContacto {
+        display: flex;
+        flex-wrap: wrap;
+        color: $rosa-os;
+        margin-top: 50px;
+        margin-left: 200px;
+        .textoContacto {
+            padding: 30px;
+            .titulo {
+                font-size: 50px;
+                font-weight: bolder;
+                color: $rosa-os;
+            }
+            .barritaRosa {
+                height: 2px;
+                width: 700px;
+                background-color: $rosa-os;
+            
+            }
+            label {
+                width:350px; 
+                height: 50px; 
+                display:inline-block;
+                padding: 20px 50px 20px 0px;
+                
+            }
+            input {
+                width:300px; 
+                height: 40px;
+                display: block;
+                background-color: $rosa-cl;
+                border: none;
+            }
+            
+            .comentarios {
+                width: 655px;
+                height: 80px;
+                border: none;
+                display: block;
+                background-color: $rosa-cl;
+                text-decoration: none
+                
+            }
+            .boton {
+                background-color: $rosa-os;
+                width: 655px;
+                padding: 5px;
+                border-radius: 5px;
+                margin-bottom: 30px;
+                .btn {
+                    color: white;
+                }
+            }
+            h4 {
+                margin-top: 20px;
+            }
+            p {
+                margin-top: 20px;
+            }
+        
+    
+        }
+    }
+}
+@media (min-width: 1025px) and (max-width: 2560px) {
+    .seccionContacto {
+        display: flex;
+        flex-wrap: wrap;
+        color: $rosa-os;
+        margin-top: 20px;
+        margin-left: 220px;
+        .textoContacto {
+            padding: 30px;
+            .titulo {
+                font-size: 50px;
+                font-weight: bolder;
+                color: $rosa-os;
+            }
+            .barritaRosa {
+                height: 2px;
+                width: 910px;
+                background-color: $rosa-os;
+            
+            }
+            label {
+                width:450px; 
+                height: 50px; 
+                display:inline-block;
+                padding: 20px 50px 20px 0px;
+                
+            }
+            input {
+                width:400px; 
+                height: 40px;
+                display: block;
+                background-color: $rosa-cl;
+                border: none;
+            }
+            
+            .comentarios {
+                width: 855px;
+                height: 80px;
+                border: none;
+                display: block;
+                background-color: $rosa-cl;
+                text-decoration: none
+                
+            }
+            .boton {
+                background-color: $rosa-os;
+                width: 855px;
+                padding: 5px;
+                border-radius: 5px;
+                margin-bottom: 30px;
+                .btn {
+                    color: white;
+                }
+            }
+            h4 {
+                margin-top: 20px;
+            }
+            p {
+                margin-top: 20px;
+            }
+        
+    
+        }
+    }
+}
